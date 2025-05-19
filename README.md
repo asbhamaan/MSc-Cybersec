@@ -1,2 +1,2 @@
 # MSc-Cybersec
-All Projects conducted with NCI
+This repository contains cybersecurity reports written by Ansh Ashwini Jain
